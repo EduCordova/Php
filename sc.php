@@ -1,6 +1,6 @@
 <?php
 
-require 'dom_php.php';
+require 'simple_html_dom.php';
 
 $url = "http://www.genbetadev.com/";
 $html = file_get_html($url);

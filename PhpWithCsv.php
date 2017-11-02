@@ -1,3 +1,4 @@
+<?php
 require "dom_php.php";
 
 $html = new simple_html_dom();

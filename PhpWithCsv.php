@@ -1,5 +1,5 @@
 <?php
-require "dom_php.php";
+require "simple_html_dom.php";
 
 $html = new simple_html_dom();
 

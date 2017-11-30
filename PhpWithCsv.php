@@ -3,9 +3,9 @@ require "simple_html_dom.php";
 
 $html = new simple_html_dom();
 
-$html -> load_file("http://www.genbetadev.com/");
+$html -> load_file("https://www.reddit.com/r/AskReddit/comments/7g9otu/whats_your_i_dont_care_what_anyone_says_i_like/");
 
-$tile = $html->find('h2 a');
+$tile = $html->find('div.commentarea  form p');
 $csvArry = [];
 
 foreach ($tile as $ti){

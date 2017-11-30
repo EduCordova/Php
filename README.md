@@ -1,5 +1,7 @@
 #  Simple PhP Scraping
 
+Uso rapido y simple de la libreria Simple_php_dom para realizar scraping con PHP 
+
 Pasos para usar el repositorio 
 
 - **Paso 1:** Descarga o clona el proyecto

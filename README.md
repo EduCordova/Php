@@ -11,4 +11,4 @@ tambien cambies la ruta o etiquestas  de los comentarios,titulos,etc que quieras
 
 
 # Realizar cambios segun el sitio web que necesites utilizar
-![drawer](https://preview.ibb.co/b32mjb/scrap.png)
+![drawer](https://preview.ibb.co/cH7ixw/scrap2.png)
